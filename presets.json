@@ -1,0 +1,72 @@
+{
+  "default": {
+    "name": "Default Settings",
+    "bleed_left": 2.0,
+    "bleed_top": 2.0,
+    "bleed_right": 2.0,
+    "bleed_bottom": 2.0,
+    "crop_enabled": true,
+    "safe_area": 5.0,
+    "unit": "mm"
+  },
+  "business_card": {
+    "name": "Business Card",
+    "bleed_left": 2.0,
+    "bleed_top": 2.0,
+    "bleed_right": 2.0,
+    "bleed_bottom": 2.0,
+    "crop_enabled": true,
+    "safe_area": 3.0,
+    "unit": "mm"
+  },
+  "flyer_a4": {
+    "name": "Flyer A4",
+    "bleed_left": 5.0,
+    "bleed_top": 5.0,
+    "bleed_right": 5.0,
+    "bleed_bottom": 5.0,
+    "crop_enabled": true,
+    "safe_area": 8.0,
+    "unit": "mm"
+  },
+  "poster_a2": {
+    "name": "Poster A2",
+    "bleed_left": 10.0,
+    "bleed_top": 10.0,
+    "bleed_right": 10.0,
+    "bleed_bottom": 10.0,
+    "crop_enabled": true,
+    "safe_area": 15.0,
+    "unit": "mm"
+  },
+  "packaging": {
+    "name": "Packaging Box",
+    "bleed_left": 3.0,
+    "bleed_top": 3.0,
+    "bleed_right": 3.0,
+    "bleed_bottom": 3.0,
+    "crop_enabled": true,
+    "safe_area": 5.0,
+    "unit": "mm"
+  },
+  "banner": {
+    "name": "Banner/Roll Up",
+    "bleed_left": 2.0,
+    "bleed_top": 5.0,
+    "bleed_right": 2.0,
+    "bleed_bottom": 5.0,
+    "crop_enabled": true,
+    "safe_area": 10.0,
+    "unit": "mm"
+  },
+  "label": {
+    "name": "Label",
+    "bleed_left": 1.0,
+    "bleed_top": 1.0,
+    "bleed_right": 1.0,
+    "bleed_bottom": 1.0,
+    "crop_enabled": true,
+    "safe_area": 2.0,
+    "unit": "mm"
+  }
+}
